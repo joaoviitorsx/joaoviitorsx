@@ -2,7 +2,6 @@
 <div>
   <a href:"https://github.com/joaoviitorsx">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoviitorsx&show_icons=true&theme=radical">
-  <img height=" 180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoviitorsx&hide=javascript,html,css&theme=radical">
 </div>
   
 <div style="display: inline_block"><br>
