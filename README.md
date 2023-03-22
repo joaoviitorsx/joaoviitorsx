@@ -1,4 +1,5 @@
 ## Olá!! Eu Sou João Vitor
+O dominio de desenvolvimento web full-stack em andamento..
 <div>
   <a href:"https://github.com/joaoviitorsx">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoviitorsx&show_icons=true&theme=radical">
