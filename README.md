@@ -1,5 +1,4 @@
 ## Olá!! Eu Sou João Vitor
-Sou gay. E adoro beijar na boca!
 O dominio de desenvolvimento web full-stack em andamento..
 <div>
   <a href:"https://github.com/joaoviitorsx">
