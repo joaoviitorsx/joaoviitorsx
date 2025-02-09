@@ -2,11 +2,10 @@
 
 <div>
   <a href:"https://github.com/joaoviitorsx">
-
-    Sou estudante de Engenharia da Computação na UNIFOR, atualmente no 6º semestre, com experiência em várias linguagens de programação, como JavaScript, Java, Python e C. Tenho paixão por desenvolver soluções inovadoras e estou em busca da minha     
-    primeira oportunidade de estágio. Ao longo da minha formação, participei de projetos acadêmicos que envolvem desde desenvolvimento web até automação com microcontroladores, além de trabalhar com bancos de dados e ferramentas de análise de dados
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaoviitorsx&show_icons=true&theme=radical">
+    Sou estudante de Engenharia da Computação na UNIFOR, atualmente no 6º semestre, com experiência em várias linguagens de programação, 
+    como JavaScript, Java, Python e C. Tenho paixão por desenvolver soluções inovadoras e estou em busca da minha primeira oportunidade 
+    de estágio. Ao longo da minha formação, participei de projetos acadêmicos que envolvem desde desenvolvimento web até automação com 
+    microcontroladores, além de trabalhar com bancos de dados e ferramentas de análise de dados.
 </div>
   
 <div style="display: inline_block"><br>
