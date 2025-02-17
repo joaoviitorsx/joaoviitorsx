@@ -9,7 +9,7 @@
 
   
 <div style="display: inline_block"><br>
-    Linguagem que ja tive contato:
+    <p>Linguagem que ja tive contato:<p><br>
     <img align="center" alt="JV-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
     <img align="center" alt="JV-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
     <img align="center" alt="JV-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
