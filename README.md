@@ -6,8 +6,10 @@
     Tenho paixão por desenvolver soluções inovadoras. Ao longo da minha formação,participei de projetos acadêmicos que envolvem desde desenvolvimento 
     web até automação com microcontroladores, além de trabalhar com bancos  de dados e ferramentas de análise de dados.
 </div>
+
   
 <div style="display: inline_block"><br>
+    Linguagem que ja tive contato:
     <img align="center" alt="JV-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
     <img align="center" alt="JV-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
     <img align="center" alt="JV-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
