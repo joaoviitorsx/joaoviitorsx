@@ -3,8 +3,8 @@
 <div>
   <a href:"https://github.com/joaoviitorsx">
     Sou estudante de Engenharia da Computação na UNIFOR, atualmente no 6º semestre, com experiência em algumas linguagens de programação.
-    Tenho paixão por desenvolver soluções inovadoras. Ao longo da minha formação,participei de projetos acadêmicos que envolvem desde desenvolvimento 
-    web até automação com microcontroladores, além de trabalhar com bancos  de dados e ferramentas de análise de dados.
+    Tenho paixão por desenvolver soluções inovadoras. Ao longo da minha formação, participei de projetos acadêmicos que envolvem desde desenvolvimento 
+    web, bancos de dados, ferramentas de análise de dados e automação com microcontroladores.
 </div>
 
   
