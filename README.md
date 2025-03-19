@@ -7,7 +7,7 @@
     web, bancos de dados, ferramentas de análise de dados e automação com microcontroladores.
 </div>
 
-![Snorlax Pixel Art](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/143.gif)
+![Snorlax Pixel Art](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/150.gif)
 
 <div style="display: inline_block"><br>
     <img align="center" alt="JV-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -25,6 +25,8 @@
   <a href="https://www.instagram.com/joaoviitorsx/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joaoviitorsx/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
+
+##
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaoviitorsx/joaoviitorsx/output/github-contribution-grid-snake-dark.svg">
