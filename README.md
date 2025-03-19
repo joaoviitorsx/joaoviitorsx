@@ -7,7 +7,7 @@
     web, bancos de dados, ferramentas de análise de dados e automação com microcontroladores.
 </div>
 
-![Pikachu] (https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10034.gif)
+![Snorlax Pixel Art](https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/143.gif)
 
 <div style="display: inline_block"><br>
     <img align="center" alt="JV-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
