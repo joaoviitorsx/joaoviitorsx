@@ -6,6 +6,7 @@
 
 <div align="center">
   <img align="center" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/showdown/6.gif" width="120">
+  <img align="center" src="https://media.tenor.com/y5_H63XJX0oAAAAi/agumon-digimon.gif" width="120">
 </div>
 
 #
