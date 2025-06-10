@@ -35,9 +35,6 @@
   <a href="https://www.linkedin.com/in/joaoviitorsx/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00C2FF&color=black&border=00C2FF">
   </a>
-  <a href="joaovitorssilva007@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=FF0000&color=black&border=FF0000">
-  </a>
 </div>
 
 ---
