@@ -8,7 +8,7 @@
 <div style="display: flex; align-items: center; gap: 20px;">
   <div style="flex: 1;">
     <p align="center">
-      Sou estudante de Engenharia da Computação na UNIFOR, atualmente no 6º semestre, com experiência em algumas linguagens de programação.
+      Sou estudante de Engenharia da Computação na UNIFOR, atualmente no 7º semestre, com experiência em algumas linguagens de programação.
       Tenho paixão por desenvolver soluções inovadoras. Ao longo da minha formação, participei de projetos acadêmicos que envolvem desde desenvolvimento 
       web, bancos de dados, ferramentas de análise de dados e automação com microcontroladores.
     </p>
